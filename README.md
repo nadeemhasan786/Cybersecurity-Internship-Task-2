@@ -8,7 +8,7 @@ Phishing Email Analysis
 
 ## Sample Information
 - **Email Source**: Simulated phishing email
-- **Analysis Date**: [Current Date]
+- **Analysis Date**: [24/09/2025]
 - **Tools Used**: MXToolbox, Google Admin Toolbox
 
 ## Header Analysis Findings
